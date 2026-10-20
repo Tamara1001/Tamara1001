@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=210&section=header&text=Tamara%20D'Angelo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Videojuegos%20%C2%B7%20Simuladores%20%C2%B7%20Unity%20%26%20C%23&descAlignY=58&descSize=20" alt="Tamara D'Angelo" />
+<img src="assets/banner.svg" alt="Tamara D'Angelo — Videojuegos y simuladores" width="100%" />
 
 <a href="https://github.com/Tamara1001">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=640&lines=Hago+juegos+y+simuladores+en+Unity+%E2%9C%A8;Dibujo+runas+y+el+mundo+reacciona+%F0%9F%94%A5;Streamer+y+configuradora+de+plugins+de+Minecraft+%E2%9B%8F%EF%B8%8F;Rosario%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=C77DFF&center=true&vCenter=true&width=520&lines=Hago+juegos+y+simuladores+en+Unity;Streamer+en+Twitch;Rosario%2C+Argentina" alt="Hago juegos y simuladores en Unity · Streamer en Twitch · Rosario, Argentina" />
 </a>
 
 <br/>
@@ -26,9 +26,8 @@
 
 - 🎮 Estudio **Producción de Simuladores y Videojuegos** y programo en **Unity (C#)**.
 - 🧪 Me enamoran los **simuladores**: física, sistemas que reaccionan y herramientas que enseñan algo de verdad.
-- 🪄 Me encantan la **magia, la fantasía y los juegos de rol** (*Witch Hat Atelier* me inspiró un simulador de hechizos).
-- ⛏️ Hago **plugins de Minecraft en Java**, los configuro y hago **streams** en Twitch.
-- 🌱 Estoy **aprendiendo desarrollo web y apps Android**, y sé un poquito de **Python**.
+- 📺 Hago **streams** en Twitch.
+- 🌱 Estoy aprendiendo **desarrollo web** y **apps Android**, y sé un poquito de **Python**.
 - 🏆 Participo en **game jams**: *Still Typing...* nació en la Women Game Jam 2026.
 - 📍 Vivo en **Rosario**, Argentina.
 
@@ -49,7 +48,6 @@ Además de juegos, me estoy metiendo en otras áreas:
 - 🌐 **Desarrollo web**, con React.
 - 📱 **Apps Android**, con .NET MAUI y C#.
 - 🐍 **Python**, un poquito, para scripts y automatizaciones.
-- ⛏️ **Plugins de Minecraft**, en Java.
 
 ## 🧰 Con qué trabajo
 
@@ -76,8 +74,6 @@ Además de juegos, me estoy metiendo en otras áreas:
 
 <div align="center">
 
-💜 *Gracias por pasar. Si querés charlar de juegos, simuladores o Minecraft, escribime.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" alt="" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>
