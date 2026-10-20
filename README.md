@@ -15,8 +15,46 @@
 [![X](https://img.shields.io/badge/@Tami__1001-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tami_1001)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tamara.1001)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tami_1001)
-[![Web](https://img.shields.io/badge/Mi%20web-9E409E?style=for-the-badge&logo=carrd&logoColor=white)](https://tamara1001.carrd.co)
-[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamaradangelo03@gmail.com)
+[![Carrd](https://img.shields.io/badge/Carrd-9E409E?style=for-the-badge&logo=carrd&logoColor=white)](https://tamara1001.carrd.co)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactotamara1001@gmail.com)
+
+
+📫 **Disponible para oportunidades** en desarrollo de videojuegos y simuladores. Escribime a [contactotamara1001@gmail.com](mailto:contactotamara1001@gmail.com).
+
+<details>
+<summary><b>🇬🇧 English version</b></summary>
+
+<br/>
+
+<div align="left">
+
+### Hi, I'm Tamara
+
+📫 **Open to opportunities** in game and simulation development. Reach me at [contactotamara1001@gmail.com](mailto:contactotamara1001@gmail.com).
+
+- 🎮 Studying **Simulator and Video Game Production**. I program in **Unity (C#)**.
+- 🧪 I love **simulators**: physics, reactive systems, and tools that actually teach something.
+- 📺 I **stream** on Twitch.
+- 🌱 I'm learning **web development** and **Android apps**, and I know a bit of **Python**.
+- 🏆 I take part in **game jams**: *Still Typing...* was born at the Women Game Jam 2026.
+- 📍 Based in **Rosario, Argentina**.
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**SpellSimulator**](https://github.com/Tamara1001/SpellSimulator) · [play](https://tamara1001.itch.io/spellsimulator) | A spell sandbox: you draw runes, a local neural network recognizes them and the world reacts with physics. Online multiplayer, 1v1 duels, built with VR in mind. Based on cosykid's fan project. | Unity 6 · C# · Sentis · Netcode |
+| [**LOTO Simulator**](https://github.com/Tamara1001/Capacitacion) · [play](https://tamara1001.itch.io/capacitacion-loto) | 3D workplace-training demo on lockout/tagout of hazardous energy, with guided and assessment modes. | Unity 6 · C# · Blender · WebGL |
+| [**Still Typing...**](https://github.com/Tamara1001/StillTyping) · [play](https://tamara1001.itch.io/stilltyping) | 2D narrative game for the Women Game Jam: build sentences under pressure to learn to say no. Tested with automated bots. | Unity 6 · C# · WebGL |
+| [**Fish or Die**](https://github.com/Tamara1001/FishOrDie) · [play](https://tamara1001.itch.io/fishordie) | Local party game for 2 to 6 players, one key each. Drop-in lobby and dynamic music. | Unity 2D · C# · Input System |
+| [**3D Ballistic Simulator**](https://github.com/Tamara1001/SimuladorBalistica) · [play](https://tamara1001.itch.io/simuladorbalistico) | Projectile physics with destructible structures, MVC architecture and cloud persistence. | Unity · C# · UGS |
+
+### Currently learning
+🌐 Web development (React) · 📱 Android apps (.NET MAUI, C#) · 🐍 Python
+
+</div>
+
+</details>
 
 </div>
 
