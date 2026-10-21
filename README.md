@@ -43,6 +43,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**DopamineMaxxing**](https://dopaminemaxxingweb.vercel.app/) · [play](https://tamara1001.itch.io/dopaminemaxxing) | A tabletop incremental: roulette, dice board, fishing and an army that fights on its own while you play something else. Four casino-style minigames at once, with an upgrade tree. Free in the browser. | Unity · C# · WebGL |
 | [**SpellSimulator**](https://github.com/Tamara1001/SpellSimulator) · [play](https://tamara1001.itch.io/spellsimulator) | A spell sandbox: you draw runes, a local neural network recognizes them and the world reacts with physics. Online multiplayer, 1v1 duels, built with VR in mind. Based on cosykid's fan project. | Unity 6 · C# · Sentis · Netcode |
 | [**LOTO Simulator**](https://github.com/Tamara1001/Capacitacion) · [play](https://tamara1001.itch.io/capacitacion-loto) | 3D workplace-training demo on lockout/tagout of hazardous energy, with guided and assessment modes. | Unity 6 · C# · Blender · WebGL |
 | [**Still Typing...**](https://github.com/Tamara1001/StillTyping) · [play](https://tamara1001.itch.io/stilltyping) | 2D narrative game for the Women Game Jam: build sentences under pressure to learn to say no. Tested with automated bots. | Unity 6 · C# · WebGL |
@@ -73,11 +74,19 @@
 
 | | Proyecto | Qué es | Stack |
 |:-:|---|---|---|
+| 🎰 | [**DopamineMaxxing**](https://dopaminemaxxingweb.vercel.app/) · [jugar](https://tamara1001.itch.io/dopaminemaxxing) | Incremental de mesa: ruleta, tablero de dados, pesca y un ejército que pelea solo mientras jugás otra cosa. Cuatro minijuegos de salón a la vez, con árbol de mejoras. Gratis en el navegador. | Unity · C# · WebGL |
 | 🪄 | [**SpellSimulator**](https://github.com/Tamara1001/SpellSimulator) · [jugar](https://tamara1001.itch.io/spellsimulator) | Dibujás runas, una red neuronal local las reconoce y el mundo reacciona con físicas. Multijugador en red, duelo 1v1 y pensado para VR. Basado en el proyecto fan de cosykid. | Unity 6 · C# · Sentis · Netcode |
 | 🏭 | [**Simulador LOTO**](https://github.com/Tamara1001/Capacitacion) · [jugar](https://tamara1001.itch.io/capacitacion-loto) | Demo 3D de capacitación laboral: bloqueo y etiquetado de energías peligrosas, con modo guiado y de evaluación. | Unity 6 · C# · Blender · WebGL |
 | 💬 | [**Still Typing...**](https://github.com/Tamara1001/StillTyping) · [jugar](https://tamara1001.itch.io/stilltyping) | Aventura narrativa 2D para la Women Game Jam: armás frases bajo presión para aprender a decir que no. Testeada con bots. | Unity 6 · C# · WebGL |
 | 🎣 | [**Fish or Die**](https://github.com/Tamara1001/FishOrDie) · [jugar](https://tamara1001.itch.io/fishordie) | Party game local para 2 a 6 jugadores con una sola tecla por persona. Lobby drop-in y música dinámica. | Unity 2D · C# · Input System |
 | 🎯 | [**Simulador Balístico 3D**](https://github.com/Tamara1001/SimuladorBalistica) · [jugar](https://tamara1001.itch.io/simuladorbalistico) | Física de proyectiles con estructuras destructibles, arquitectura MVC y persistencia en la nube. | Unity · C# · UGS |
+
+<p align="center">
+  <a href="https://dopaminemaxxingweb.vercel.app/"><img src="assets/dopaminemaxxing/mesa-ruleta.webp" alt="DopamineMaxxing: la mesa de la ruleta" width="24%" /></a>
+  <a href="https://dopaminemaxxingweb.vercel.app/"><img src="assets/dopaminemaxxing/mesa-dados.webp" alt="DopamineMaxxing: el tablero de dados" width="24%" /></a>
+  <a href="https://dopaminemaxxingweb.vercel.app/"><img src="assets/dopaminemaxxing/mesa-pesca.webp" alt="DopamineMaxxing: la mesa de pesca" width="24%" /></a>
+  <a href="https://dopaminemaxxingweb.vercel.app/"><img src="assets/dopaminemaxxing/mesa-ejercito.webp" alt="DopamineMaxxing: la mesa del ejército" width="24%" /></a>
+</p>
 
 ## 🌱 Lo que estoy aprendiendo
 
