@@ -103,10 +103,14 @@ Además de juegos, me estoy metiendo en otras áreas:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tamara1001&show_icons=true&count_private=true&hide_border=false&border_color=44236A&bg_color=22103A&title_color=F4C66E&text_color=F0C6F0&icon_color=CE94E0&border_radius=12" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamara1001&layout=compact&hide_border=false&border_color=44236A&bg_color=22103A&title_color=F4C66E&text_color=F0C6F0&icon_color=CE94E0&border_radius=12" alt="Lenguajes" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamara1001&background=22103A&border=44236A&stroke=44236A&ring=F4C66E&fire=F4C66E&currStreakNum=FFE6A8&currStreakLabel=F4C66E&sideNums=F7EEFF&sideLabels=CE94E0&dates=C7B2DE&border_radius=14&locale=es" alt="Racha de contribuciones" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tamara1001/Tamara1001/output/snake.svg" alt="Serpiente comiéndose mis contribuciones" width="92%" />
 
 </div>
+
 
 ---
 

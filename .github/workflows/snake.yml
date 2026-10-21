@@ -1,0 +1,34 @@
+# Genera la serpiente de contribuciones (animada, con la paleta del perfil) y la publica en la rama `output`.
+name: Serpiente de contribuciones
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/snake.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # puntos de menos a más actividad: night-700, night-600, violet-500, violet-400, lilac-300; serpiente: gold-400
+          outputs: |
+            dist/snake.svg?color_snake=%23F4C66E&color_dots=%2344236A,%235B3384,%238549C0,%23A66EDB,%23CE94E0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
