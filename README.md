@@ -2,21 +2,21 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Tamara D'Angelo — Videojuegos y simuladores" width="100%" />
+<img src="assets/banner.jpg" alt="Tamara D'Angelo — Videojuegos y simuladores" width="100%" />
 
 <a href="https://github.com/Tamara1001">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=C77DFF&center=true&vCenter=true&width=520&lines=Hago+juegos+y+simuladores+en+Unity;Streamer+en+Twitch;Rosario%2C+Argentina" alt="Hago juegos y simuladores en Unity · Streamer en Twitch · Rosario, Argentina" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&pause=1500&color=F4C66E&center=true&vCenter=true&width=520&lines=Hago+juegos+y+simuladores+en+Unity;Streamer+en+Twitch;Rosario%2C+Argentina" alt="Hago juegos y simuladores en Unity · Streamer en Twitch · Rosario, Argentina" />
 </a>
 
 <br/>
 
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://tamara1001.itch.io)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/tamara1001)
-[![X](https://img.shields.io/badge/@Tami__1001-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tami_1001)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tamara.1001)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tami_1001)
-[![Carrd](https://img.shields.io/badge/Carrd-9E409E?style=for-the-badge&logo=carrd&logoColor=white)](https://tamara1001.carrd.co)
-[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactotamara1001@gmail.com)
+[![itch.io](https://img.shields.io/badge/itch.io-2F1650?style=for-the-badge&logo=itchdotio&logoColor=F4C66E&labelColor=2F1650)](https://tamara1001.itch.io)
+[![Twitch](https://img.shields.io/badge/Twitch-2F1650?style=for-the-badge&logo=twitch&logoColor=F4C66E&labelColor=2F1650)](https://twitch.tv/tamara1001)
+[![X](https://img.shields.io/badge/@Tami__1001-2F1650?style=for-the-badge&logo=x&logoColor=F4C66E&labelColor=2F1650)](https://x.com/Tami_1001)
+[![TikTok](https://img.shields.io/badge/TikTok-2F1650?style=for-the-badge&logo=tiktok&logoColor=F4C66E&labelColor=2F1650)](https://tiktok.com/@tamara.1001)
+[![Instagram](https://img.shields.io/badge/Instagram-2F1650?style=for-the-badge&logo=instagram&logoColor=F4C66E&labelColor=2F1650)](https://instagram.com/tami_1001)
+[![Carrd](https://img.shields.io/badge/Carrd-2F1650?style=for-the-badge&logo=carrd&logoColor=F4C66E&labelColor=2F1650)](https://tamara1001.carrd.co)
+[![Mail](https://img.shields.io/badge/Email-2F1650?style=for-the-badge&logo=gmail&logoColor=F4C66E&labelColor=2F1650)](mailto:contactotamara1001@gmail.com)
 
 
 📫 **Disponible para oportunidades** en desarrollo de videojuegos y simuladores. Escribime a [contactotamara1001@gmail.com](mailto:contactotamara1001@gmail.com).
@@ -99,12 +99,22 @@ Además de juegos, me estoy metiendo en otras áreas:
 
 **Prácticas:** arquitectura por eventos · ScriptableObjects · tests automáticos y bots · builds WebGL · documentación de producción
 
+## 🐾 Compañeras de código
+
+<div align="center">
+
+<img src="assets/gatos.jpg" alt="Peluches de Tuki y Jolyne" width="420" />
+
+<sub>Tuki (el de la cara de sorpresa) y Jolyne, en peluche, con un amigo lila.</sub>
+
+</div>
+
 ## 📊 Mi actividad
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tamara1001&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamara1001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Lenguajes" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tamara1001&show_icons=true&count_private=true&hide_border=false&border_color=44236A&bg_color=22103A&title_color=F4C66E&text_color=F0C6F0&icon_color=CE94E0&border_radius=12" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamara1001&layout=compact&hide_border=false&border_color=44236A&bg_color=22103A&title_color=F4C66E&text_color=F0C6F0&icon_color=CE94E0&border_radius=12" alt="Lenguajes" />
 
 </div>
 
@@ -112,6 +122,6 @@ Además de juegos, me estoy metiendo en otras áreas:
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="" width="100%" />
+<img src="assets/footer.jpg" alt="" width="100%" />
 
 </div>
