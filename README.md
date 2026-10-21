@@ -10,13 +10,13 @@
 
 <br/>
 
-[![itch.io](https://img.shields.io/badge/itch.io-2F1650?style=for-the-badge&logo=itchdotio&logoColor=F4C66E&labelColor=2F1650)](https://tamara1001.itch.io)
-[![Twitch](https://img.shields.io/badge/Twitch-2F1650?style=for-the-badge&logo=twitch&logoColor=F4C66E&labelColor=2F1650)](https://twitch.tv/tamara1001)
-[![X](https://img.shields.io/badge/@Tami__1001-2F1650?style=for-the-badge&logo=x&logoColor=F4C66E&labelColor=2F1650)](https://x.com/Tami_1001)
-[![TikTok](https://img.shields.io/badge/TikTok-2F1650?style=for-the-badge&logo=tiktok&logoColor=F4C66E&labelColor=2F1650)](https://tiktok.com/@tamara.1001)
-[![Instagram](https://img.shields.io/badge/Instagram-2F1650?style=for-the-badge&logo=instagram&logoColor=F4C66E&labelColor=2F1650)](https://instagram.com/tami_1001)
-[![Carrd](https://img.shields.io/badge/Carrd-2F1650?style=for-the-badge&logo=carrd&logoColor=F4C66E&labelColor=2F1650)](https://tamara1001.carrd.co)
-[![Mail](https://img.shields.io/badge/Email-2F1650?style=for-the-badge&logo=gmail&logoColor=F4C66E&labelColor=2F1650)](mailto:contactotamara1001@gmail.com)
+[![Web](https://img.shields.io/badge/web-tamara1001.vercel.app-5E54B0?style=for-the-badge&logo=vercel&logoColor=F4C66E&labelColor=2F1650)](https://tamara1001.vercel.app)
+[![itch.io](https://img.shields.io/badge/itch.io-tamara1001-8549C0?style=for-the-badge&logo=itchdotio&logoColor=F4C66E&labelColor=2F1650)](https://tamara1001.itch.io)
+[![Twitch](https://img.shields.io/badge/Twitch-tamara1001-8B4F8E?style=for-the-badge&logo=twitch&logoColor=F4C66E&labelColor=2F1650)](https://twitch.tv/tamara1001)
+[![X](https://img.shields.io/badge/X-@Tami__1001-5E54B0?style=for-the-badge&logo=x&logoColor=F4C66E&labelColor=2F1650)](https://x.com/Tami_1001)
+[![TikTok](https://img.shields.io/badge/TikTok-@tamara.1001-8549C0?style=for-the-badge&logo=tiktok&logoColor=F4C66E&labelColor=2F1650)](https://tiktok.com/@tamara.1001)
+[![Instagram](https://img.shields.io/badge/Instagram-@tami__1001-8B4F8E?style=for-the-badge&logo=instagram&logoColor=F4C66E&labelColor=2F1650)](https://instagram.com/tami_1001)
+[![Mail](https://img.shields.io/badge/Email-contacto-5E54B0?style=for-the-badge&logo=gmail&logoColor=F4C66E&labelColor=2F1650)](mailto:contactotamara1001@gmail.com)
 
 
 📫 **Disponible para oportunidades** en desarrollo de videojuegos y simuladores. Escribime a [contactotamara1001@gmail.com](mailto:contactotamara1001@gmail.com).
@@ -98,16 +98,6 @@ Además de juegos, me estoy metiendo en otras áreas:
 **Aprendiendo:** desarrollo web (React) · apps Android (.NET MAUI)
 
 **Prácticas:** arquitectura por eventos · ScriptableObjects · tests automáticos y bots · builds WebGL · documentación de producción
-
-## 🐾 Compañeras de código
-
-<div align="center">
-
-<img src="assets/gatos.jpg" alt="Peluches de Tuki y Jolyne" width="420" />
-
-<sub>Tuki (el de la cara de sorpresa) y Jolyne, en peluche, con un amigo lila.</sub>
-
-</div>
 
 ## 📊 Mi actividad
 
